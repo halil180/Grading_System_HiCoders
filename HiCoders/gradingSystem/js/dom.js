@@ -1,0 +1,6 @@
+const averageGradeContainerA = document.querySelector('#grade-container')
+const averageGradeContainerB = document.querySelector('#grade-container-B')
+const averageGradeContainerC = document.querySelector('#grade-container-C')
+const aStudentContainer = document.querySelector('#studentA')
+const bStudentContainer = document.querySelector('#studentB')
+const cStudentContainer = document.querySelector('#studentC')
