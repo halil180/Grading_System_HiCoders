@@ -1,7 +1,3 @@
-const classAverageCalculator = () => {
-    
-}
-
 const averageMath = (className) =>{
     className = className.map((x) => x).map((x) => x.grades[0].math).filter(e => e)
     let classAverage = className.reduce((total,grade) => total + grade ,0)/className.length
