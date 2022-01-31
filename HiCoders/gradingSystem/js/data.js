@@ -75,7 +75,7 @@ let classA = [{
     },
     {
         studentName: "Julian",
-        profilePicture: '../gradingSystem/imgs/classA/Julian.png',
+        profilePicture: '../gradingSystem/imgs/classA/julian.png',
         grades: [{
             math: 72,
             chemistry: 77,
